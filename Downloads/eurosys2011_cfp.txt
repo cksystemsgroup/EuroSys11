@@ -1,0 +1,84 @@
+Call for Papers
+
+EuroSys'11, the European Conference on Computer Systems, seeks papers on all aspects of computer systems, especially ones that bridge traditionally disjoint areas. All areas of operating systems and distributed systems are of interest, including:
+
+    * Systems aspects of:
+          o Continuous media
+          o Cloud, grid, and internet/web computing
+          o Databases, and information and data management
+          o Dependable computing and storage
+          o Distributed computing
+          o Local and distributed storage
+          o Management, autonomics, and control
+          o Measurement, monitoring, analysis, and diagnostics
+          o Mobile, personal, and pervasive computing
+          o Novel uses of information technology
+          o Novel user interfaces
+          o Parallel and concurrent computing
+          o Programming-language support
+          o Real-time and embedded computing
+          o Security
+          o Sensor nets and tiny devices
+          o Service-oriented architectures
+    * Experience with existing systems
+    * Reproduction or refutation of previous results
+    * Negative results
+    * Early ideas
+
+In addition to papers that report on the design, implementation, evaluation and deployment of systems or research work, we also actively encourage papers about new ideas, or experiences with ideas or systems. Appropriate standards will be applied to papers in different categories: for experiences papers, evaluation and lessons-learned will be more important than novelty.
+
+Papers are reviewed by the program committee, with the help of outside referees. Papers will be accepted primarily for their impact on the systems community. Novelty, clarity of explanation, thoroughness of evaluation, and bridging gaps between different communities are additional criteria. Acceptance may be provisional, subject to further shepherding by a member of the program committee before final acceptance.
+
+Reviewing will be double-blind, meaning the authors' identities will be hidden from the reviewers (note that this is a change in policy to previous EuroSys conferences). EuroSys applies ACM's policies for plagiarism, submission confidentiality, reviewer anonymity, and prior and concurrent paper submission; see http://www.acm.org/publications/policies/policies-toc for more details. Submissions accompanied by nondisclosure agreement forms will not be considered.
+
+Note that the above does not preclude the submission of a paper that is derived from a previous short paper or workshop paper, as long as it provides a significant new contribution (e.g., a more complete evaluation of an idea) and clearly indicates the nature and extent of the new material in the submission.
+
+Submissions may not exceed 12 pages double column, including everything (i.e., figures, tables, references, appendices, etc.), and should use a 10pt font. A LaTeX style file is available from the submission site. No changes to margins, spacing, or font sizes are allowed from those specified by the style file. Papers that violate the submission guidelines will be automatically rejected without consideration of their merit. Accepted papers will be allowed 14 pages in the proceedings. At least one author of an accepted paper will be expected to travel to the conference to present it.
+
+Authors who are unsure whether their submissions might meet these guidelines, or with specific questions about the guidelines, are welcome to contact the program committee chair, via eurosys11-pcc@ertos.nicta.com.au.
+
+EuroSys'11 welcomes submissions and attendance from all over the world. To encourage diversity, any single author may be named on at most three papers.
+
+In order to encourage and aid authors less experienced in writing competitive systems papers, we offer a pre-submission option. All complete papers received by the pre-submission deadline (4 weeks before the actual paper deadline) will, within one week, receive feedback from an experienced systems researcher and reviewer on how to improve the paper. This feedback will focus on structure and presentation issues and emphasize improving the writeup rather than critiquing the research. Pre-reviewers may or may not be members of the program committee, and may or may not review the final paper (but are subject to the same confidentiality rules as actual reviewers). As such, the same standards of double-blind reviewing apply as for the final papers.
+
+In addition to paper presentations, EuroSys'11 will have a poster session. Submissions for posters will open closer to the conference deadline. Accepted papers will automatically qualify for the poster session, and authors will be strongly encouraged to participate. We will offer awards for the best paper and for the best paper with a student as the primary author.
+
+Important dates
+
+    * Paper pre-submission deadline: 10 September 2010
+    * Abstract submission deadline: 3 October 2010
+    * Full paper submission deadline: 10 October 2010, 23:59 UTC -- no extensions will be granted
+    * Reviews released to authors: 25 December 2010
+    * Author rebuttals due: 31 December 2010
+    * Notification to authors: 8 January 2011
+    * Camera-ready & copyright-form deadline: TBD
+    * EuroSys'11 conference: 10-13 April 2011
+
+Program committee
+
+    * Adam Dunkels, SICS
+    * Alistair Veitch, HP Labs
+    * Andrew Baumann, ETHZ
+    * Andreas Haeberlen, UPenn
+    * Bianca Schroeder, Toronto
+    * Dawson Engler, Stanford
+    * Frans Kaashoek, MIT
+    * George Candea, EPFL
+    * Gernot Heiser, UNSW/NICTA (Chair)
+    * Herbert Bos, Vrije Universiteit Amsterdam
+    * Jacob Gorm Hansen, VMware
+    * Jacob R. Lorch, MSR Redmond
+    * Leonid Ryzhyk, NICTA
+    * Liuba Shrira, Brandeis
+    * Michael Hohmuth, AMD
+    * M. Satyanarayanan, CMU
+    * Ozalp Babaoglu, Bologna
+    * Pradeep Padala, DOCOMO USA Labs
+    * Rebecca Isaacs, MSR Silicon Valley
+    * Robbert van Renesse, Cornell
+    * Robert Grimm, NYU
+    * Sasha Fedorova, Simon Fraser
+    * Scott Brandt, UCSC
+    * Steve Gribble, Washington
+    * Trent Jaeger, Penn State
+    * Zheng Zhang, MSR Asia

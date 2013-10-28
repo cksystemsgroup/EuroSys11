@@ -1,0 +1,21 @@
+
+Call for Posters and Demos
+
+We invite EuroSys attendees to participate in a special poster session that will foster lively, informal and in-depth discussions. EuroSys Posters & Demos will be selected in advance on the basis of two-page PDF abstracts, with fonts no smaller than 10 point. Abstracts must be submitted by sending email to: eurosys-2011-posters@googlegroups.com 
+by  March 1, 2011, 23:59 UTC.
+
+Posters will be selected on the following basis:
+  1. Submissions must describe new, interesting ideas on any EuroSys area such as operating systems or distributed systems. Posters may be accompanied by demos.
+  2. Submissions should present early work that is not yet submitted to a refereed conference or journal. Inclusion of early experimental results is particularly encouraged.
+  3. Student submissions meeting the above criteria will be given preference; however, non-students may also submit abstracts.
+
+Please provide the following information in your PDF file:
+  * Poster title.
+  * Author names, affiliations, and email addresses.
+  * Note which authors, if any, are students.
+  * Indicate if you plan to set up a demo with your poster.
+
+Authors will be notified of acceptance or rejection via e-mail by March 8, 2011. No reviews will be provided. Posters will be published online at the conference Web site. The poster session is scheduled for Monday afternoon, April 11. At least one author should register to the conference and present the poster throughout the entire 90 minutes of the session. Authors of the five best posters will be given 3 minutes each to present their work before the poster session.
+
+Please send any questions about the posters & demos session to: 
+eurosys-2011-posters@googlegroups.com
